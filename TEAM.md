@@ -33,7 +33,7 @@ Jeong Ki Sub
 + Netmarble Game Designer
 
 * * * 
-###### Location
+###### Company Location
 5F Pangyo Innovally A, 621, Sampyeongdong Bundanggu
 
 Seongnamsi Gyeonggido, KOREA 463-400
