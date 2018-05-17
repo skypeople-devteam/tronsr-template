@@ -1,10 +1,10 @@
-# Type
+### Type
 Cloud - AWS
 
-# Location
+### Location
 ap-northeast-2 (asia / seoul region)
 
-# Info
+### Info
 before-upgrade : x1.16xlarge * 2 + m5.4xlarge
 
 after-upgrade : x1.32xlarge * 2 + m5.4xlarge
