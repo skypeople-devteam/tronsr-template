@@ -7,3 +7,8 @@ Our company has a good understanding of AWS and the blockchain. Also We are able
 In addition, our team is preparing a quarterly meet up to integrate blockchain with our games.
 
 During this meet up, we are planning to allocate Tron session to educate developers with Tron blockchain technology.
+
++ Provide resource usage report by interval
++ Provide about improvement of problem report
++ Various system test using own node
++ Add Tron session to educate developers with Tron blockchain technology
