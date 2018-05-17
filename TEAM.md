@@ -1,14 +1,37 @@
-## Founder
+![members.png](./members.png)
 
-Name: [name]
-Role: [role]
+## CEO
 
-## Team Member 1
+Park Kyung Jae
 
-Name: [name]
-Role: [role]
+Ncsoft ‘Final Blade’ Executive PD / Wemade 'Viking Island' PD
 
-## Team Member 2
+## VP
 
-Name: [name]
-Role: [role]
+Hong Jeong Ki
+
+Ncsoft ‘Final Blade’ Global PD / Gala Business Team BM
+
+## CTO
+
+Choi Young Ho
+
+Block Chain Developer / Ncsoft ‘Final Blade’ Technical Director / Nexon Publishing Game Developer
+
+## PM
+
+Park Jeong Ha
+
+YD Online 'Prestone Tale' Business Manager
+
+## CD
+
+Jung Young Ha
+
+Tencent Game Designer
+
+## Game Designer
+
+Jeong Ki Sub
+
+Netmarble Game Designer
