@@ -1,5 +1,3 @@
-![members.png](./members.png)
-
 ## CEO
 
 Park Kyung Jae
