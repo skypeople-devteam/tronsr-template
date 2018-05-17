@@ -2,6 +2,9 @@
 
 Park Kyung Jae
 + Ncsoft ‘Final Blade’ Executive PD
++ Pixelammo CTO
++ Game Bill pubishing game PD
++ Neowiz Keri racing PD
 + Wemade 'Viking Island' PD
 
 ## VP
