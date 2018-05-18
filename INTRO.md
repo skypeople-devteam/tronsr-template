@@ -1,6 +1,6 @@
-<SKYPEOPLE> is the IT company located in Pan-gyo, Korea.
+\<SKYPEOPLE\> is the IT company located in Pan-gyo, Korea.
 
-<SKYPEOPLE> have a high quality of development ability, knowledge, and the Server Technique about the game contents. Also, we are providing a 2D based Mobile RPG game 'FINAL BLADE', servicing with NCSOFT in Korea. 
+\<SKYPEOPLE\> have a high quality of development ability, knowledge, and the Server Technique about the game contents. Also, we are providing a 2D based Mobile RPG game 'FINAL BLADE', servicing with NCSOFT in Korea. 
 
 'FINAL BLADE' have a record of Mobile game Revenue of 2nd place in Google Play, and now preparing the global service starting from the launch in China Region, June 2018. 
 
@@ -9,7 +9,7 @@ As applying our contents know-how to TRON(TRX), we are going to try a various bu
 Based on the essential outcomes from the business model trials, we will share the results with the people who wish to understand the Blockchain, and create the brand new vision ahead.
 
 With the proven service capability through the 'FINAL BLADE' and bonding the game contents with a blockchain system, we will be the very first step of honorable path.  
-For who wants to be with an advanced future contents, please vote for <SKYPEOPLE>
+For who wants to be with an advanced future contents, please vote for \<SKYPEOPLE\>
 
 Our fresh tryout will awake the entire world!!
 
