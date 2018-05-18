@@ -28,7 +28,7 @@ Park Jeong Ha
 ## CD
 
 Jung Young Ha
-+ Tencent Game Designer
++ Tencent Business Development & Game Designer
 
 ## Game Designer
 
