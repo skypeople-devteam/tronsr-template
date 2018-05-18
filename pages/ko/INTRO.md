@@ -11,3 +11,8 @@
 ‘파이널블레이드’로 검증된 서비스 능력, 블록 체인과 게임 콘텐츠 결합을 통해 새로운 미래 콘텐츠를 함께할 분들은 <스카이피플>에 투표해주세요.
 
 우리의 새로운 시도는 전 세계를 놀라게 할 것입니다.
+
++ ‘Skypeople‘ 공식 홈페이지 : <http://www.skypeople.co.kr/> (Renewal 5/31)
++ ‘Final Blade‘ 한국 공식 홈페이지 : <https://fb.plaync.com>
++ ‘Final Blade‘ 한국 커뮤니티 카페 : <http://cafe.naver.com/sori21>
++ ‘Final Blade‘ 대만 페이스북 : <https://www.facebook.com/poseidon.finalblade>
