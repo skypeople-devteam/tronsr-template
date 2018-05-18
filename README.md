@@ -25,6 +25,19 @@ Super Representatives can use this template to build a static page which will be
 
 By editing files in the repository on Github the Super Representative can manage their own content.
 
+
+## Example
+
+The example shows which files are presented where. Whenever the files on Github are modified the page will instantly be updated
+
+![](https://raw.githubusercontent.com/tronscan/docs/master/images/example-page.png)
+
+__Example Super Representative Pages__
+
+* [CryptoGuyInZA](https://www.tronscan.org/#/representative/27WDUwfv7FzWmNuj4rbrmRjxQvgHnC46Kcf)
+* [Skypeople](https://www.tronscan.org/#/representative/27d5JV5sJH2ERb7Kddcp5p2n2yR2zuKCAQs)
+* [CryptoChain](https://www.tronscan.org/#/representative/27WK11uSBUjxmnbtQ3AArs1hLpUkPg4WAJF)
+
 ## How to use
 
 __This guide assumes that you already have an account which has Super Representative (candidate) status__
@@ -52,7 +65,7 @@ Files are written in markdown format. An excellent intro can be found at https:/
 
 * Update the logo.png and banner.png  
 ![](https://raw.githubusercontent.com/tronscan/docs/master/images/github-upload-files.png)  
-Then click on "choose your files" and make sure the logo or banner you want to upload is named `logo.png` or `banner.jpg` to overwrite the placeholder images.
+Then click on "choose your files" and make sure the logo or banner you want to upload is named `logo.png` or `banner.png` to overwrite the placeholder images.
 
 After you filled in the template it can now be published on https://tronscan.org
 
@@ -70,11 +83,9 @@ After you filled in the template it can now be published on https://tronscan.org
 * View your new Page!  
 ![](https://raw.githubusercontent.com/tronscan/docs/master/images/view-page.png)
 
-## Example
+## Translations
 
-The example shows which files are presented where. Whenever the files on Github are modified the page will instantly be updated
-
-![](https://raw.githubusercontent.com/tronscan/docs/master/images/example-page.png)
+Checkout the [Pages](/pages) directory for the translation readme
 
 ## FAQ
 
