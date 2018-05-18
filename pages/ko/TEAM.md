@@ -28,7 +28,7 @@
 ## CD
 
 정영하
-+ Tencent Game Designer
++ Tencent Business Development & Game Designer
 
 ## Game Designer
 
