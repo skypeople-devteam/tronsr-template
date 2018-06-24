@@ -1,10 +1,19 @@
-Cost of maintaining servers
+Our plan for the Rewards to the voters
++ Rewards to the voters : 35%
+Airdrop will be done within a day regularly.
++ Operation budget : 10%
+Service management fee
++ Hardware maintenance fee : 10%
+Server maintenance 
++ New Blockchain RND budget : 45%
+We are going to airdrop the 2% of volume 
+at the moment of mainnet for the blockchain system we are developing.  
 
-+ before-upgrade : $(9763.42 \* 2 + 562.18) \* month
-+ after-upgrade : $(19526.84 \* 2 + 562.18) \* month
-
-We will use activity cost and personnel expenses of the members who build and operate the meet up and the livestream.
-
-It will use personnel expenses of the developers who Skypeople’s new title in conjunction with Tron coin
-
-For the new title’s marketing costs (includes Tron master node partnership mark)
+What is the new blockchain we are developing?
++ Main feature is “the payment which the blockchain is applied” and “the Item market system”.
++ Our goal is the decentralization of the data by applying blockchain technique in the game and server data step by step. 
++ As the SDK format, it will be open to GITHUB, and any developer or company can freely use it.
++ Roadmap : 
+3rd Quarter Testnet / 4th Quarter ICO / Next year 1st Mainnet (Schedule can be shortened) 
++ When ICO, we support the exchange with TRX.
++ More details will be opened during the Testnet.
