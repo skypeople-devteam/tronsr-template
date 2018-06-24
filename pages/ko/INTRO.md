@@ -5,19 +5,19 @@
 
  = 추가 정보의 링크는 아래와 같습니다. =
 
-1. SKYPEOPLE 기본 정보 및 SR 공약 : https://goo.gl/hdkzAu
-2. SKYPEOPLE 소개 영상 : https://goo.gl/wTEuFm
-3. 트론 공식 SR 후보 정보 (영문) : https://goo.gl/ucQ6JB
-4. 인센티브 35% 지급 방식 설명 : https://goo.gl/8ZYKSZ
-5. 개발중인 블록체인 x 게임 가이드 : https://goo.gl/mmXT8L
-6. 인센티브 계산기 : https://goo.gl/US91Cw
-7. 슈퍼 SR 투표 가이드 : https://goo.gl/Whqopu
-8. SR 해외 보도 자료 1 (영문) : https://goo.gl/YoTdPR
-9. SR 해외 보도 자료 2 (영문) : https://goo.gl/1DvuPJ
++ SKYPEOPLE 기본 정보 및 SR 공약 : https://goo.gl/hdkzAu
++ SKYPEOPLE 소개 영상 : https://goo.gl/wTEuFm
++ 트론 공식 SR 후보 정보 (영문) : https://goo.gl/ucQ6JB
++ 인센티브 35% 지급 방식 설명 : https://goo.gl/8ZYKSZ
++ 개발중인 블록체인 x 게임 가이드 : https://goo.gl/mmXT8L
++ 인센티브 계산기 : https://goo.gl/US91Cw
++ 슈퍼 SR 투표 가이드 : https://goo.gl/Whqopu
++ SR 해외 보도 자료 1 (영문) : https://goo.gl/YoTdPR
++ SR 해외 보도 자료 2 (영문) : https://goo.gl/1DvuPJ
 
  = SKYPEOPLE 공식 채널 정보 =
-1. 홈페이지 : http://www.skypeople.co.kr/
-2. 트위터 : https://twitter.com/SkypeopleMaster?lang=ko
-3. SR 텔레그램 채널방 : https://t.me/TRONSR_skypeople_KR
++ 홈페이지 : http://www.skypeople.co.kr/
++ 트위터 : https://twitter.com/SkypeopleMaster?lang=ko
++ SR 텔레그램 채널방 : https://t.me/TRONSR_skypeople_KR
 
 감사합니다. :)
