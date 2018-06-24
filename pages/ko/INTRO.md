@@ -1,18 +1,23 @@
-<스카이피플>은 한국 판교에 있는 IT기업입니다.
+스카이 피플은 게임 개발사로서 NC소프트를 통해 국내 서비스한 수집형 RPG <파이널 블레이드>의 개발사입니다. 한국은 약 180억의 매출을 올렸으며, 6월 13일 대만 서비스를 시작하여 앱스토어 매출 10위권 안에 진입하였습니다.
+추가적으로 올해 자체적인 글로벌 서비스를 준비중입니다.
 
-‘파이널블레이드’라는 2D 기반의 모바일 RPG 게임을 NCSOFT와 함께 한국 서비스하고 있으며, 게임 콘텐츠에 대한 수준 높은 개발력과 지식, 서버 기술력을 보유하고 있습니다.
+또한 <블록체인 x 게임>을 결합한 기술을 R&D 중에 있으며, 이를 통해 TRON의 실 사용처를 제공할 예정입니다.
 
-‘파이널블레이드’는 국내에서 게임 매출 2위까지 달성한 기록이 있으며, 현재 6월 중화권 출시(런칭)를 시작으로 글로벌 서비스를 준비하고 있습니다.
+ = 추가 정보의 링크는 아래와 같습니다. =
 
-<스카이피플>기술팀은 블록 체인과 게임 결합을 통해 보다 우수한 미래 콘텐츠들을 사용자들에게 선보이고자 합니다.
+1. SKYPEOPLE 기본 정보 및 SR 공약 : https://goo.gl/hdkzAu
+2. SKYPEOPLE 소개 영상 : https://goo.gl/wTEuFm
+3. 트론 공식 SR 후보 정보 (영문) : https://goo.gl/ucQ6JB
+4. 인센티브 35% 지급 방식 설명 : https://goo.gl/8ZYKSZ
+5. 개발중인 블록체인 x 게임 가이드 : https://goo.gl/mmXT8L
+6. 인센티브 계산기 : https://goo.gl/US91Cw
+7. 슈퍼 SR 투표 가이드 : https://goo.gl/Whqopu
+8. SR 해외 보도 자료 1 (영문) : https://goo.gl/YoTdPR
+9. SR 해외 보도 자료 2 (영문) : https://goo.gl/1DvuPJ
 
-우리가 가진 콘텐츠 노하우를 트론에 적용시켜 여러 가지 비즈니스 모델을 시도할 것입니다. 이런 과정에서 창출시킨 중요한 결과를 기반으로 블록 체인을 이해하고자 하는 사람들과 정보를 공유하고 새로운 비전을 발전시켜 나갈 것입니다.
+ = SKYPEOPLE 공식 채널 정보 =
+1. 홈페이지 : http://www.skypeople.co.kr/
+2. 트위터 : https://twitter.com/SkypeopleMaster?lang=ko
+3. SR 텔레그램 채널방 : https://t.me/TRONSR_skypeople_KR
 
-‘파이널블레이드’로 검증된 서비스 능력, 블록 체인과 게임 콘텐츠 결합을 통해 새로운 미래 콘텐츠를 함께할 분들은 <스카이피플>에 투표해주세요.
-
-우리의 새로운 시도는 전 세계를 놀라게 할 것입니다.
-
-+ ‘Skypeople‘ 공식 홈페이지 : <http://www.skypeople.co.kr/> (Renewal 5/31)
-+ ‘Final Blade‘ 한국 공식 홈페이지 : <https://fb.plaync.com>
-+ ‘Final Blade‘ 한국 커뮤니티 카페 : <http://cafe.naver.com/sori21>
-+ ‘Final Blade‘ 대만 페이스북 : <https://www.facebook.com/poseidon.finalblade>
+감사합니다. :)
