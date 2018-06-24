@@ -10,7 +10,7 @@ We are going to airdrop the 2% of volume
 at the moment of mainnet for the blockchain system we are developing.  
 
 What is the new blockchain we are developing?
-+ Main feature is “the payment which the blockchain is applied” and “the Item market system”.
++ Main feature is the "Payment" and the "Item Market" based on the blockchain system.
 + Our goal is the decentralization of the data by applying blockchain technique in the game and server data step by step. 
 + As the SDK format, it will be open to GITHUB, and any developer or company can freely use it.
 + Roadmap : 
