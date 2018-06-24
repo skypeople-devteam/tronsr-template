@@ -1,19 +1,30 @@
-<SKYPEOPLE\> is the IT company located in Pan-gyo, Korea.
+★Announcement★
 
-<SKYPEOPLE\> have a high quality of development ability, knowledge, and the Server Technique about the game contents. Also, we are providing a 2D based Mobile RPG game 'FINAL BLADE', servicing with NCSOFT in Korea. 
+TRON SR Candidate SKYPEOPLE Introduction
 
-'FINAL BLADE' have a record of Mobile game Revenue of 2nd place in Google Play, and now preparing the global service starting from the launch in China Region, June 2018. 
+SKYPEOPLE is the game development company which created Collective Mobile RPG game <FINAL BLADE> servicing in South Korea Published by NC Soft. We have recorded 17 million dollars with <FINAL BLADE>. The starting of launching in Taiwan June 13th, our game recorded in the top 10 of sales in app store. Additionally, there will be a self-publishing global service of <FINAL BLADE>.
 
-<SKYPEOPLE> Technical team would like to present the exceptional future contents bonding a game with a blockchain.
-As applying our contents know-how to TRON(TRX), we are going to try a various business models. 
-Based on the essential outcomes from the business model trials, we will share the results with the people who wish to understand the Blockchain, and create the brand new vision ahead.
+Also, we are in R&D of <Blockchain & Game> and with our technology, we are going to provide the TRON’s actual trading market through the Blockchain game.   
 
-With the proven service capability through the 'FINAL BLADE' and bonding the game contents with a blockchain system, we will be the very first step of honorable path.  
-For who wants to be with an advanced future contents, please vote for <SKYPEOPLE\>
+TRON SR Candidate SKYPEOPLE Information is listed below
++ SKYPEOPLE Basic Information and SR commitment : https://goo.gl/hdkzAu
++ Official TRON SR Candidate information : https://goo.gl/ucQ6JB
++ Reward 35% basic guide : https://goo.gl/8ZYKSZ
++ SKYPEOPLE <Blockchain x Game> ppt : https://goo.gl/mmXT8L
++ Estimated Reward Calculator : https://goo.gl/US91Cw
++ TRON SR Voting Guide : https://goo.gl/Whqopu
++ Mass Media SKYPEOPLE investment analysis Article 1 : https://goo.gl/YoTdPR
++ Mass Media SKYPEOPLE investment analysis Article 2 : https://goo.gl/1DvuPJ
 
-Our fresh tryout will awake the entire world!!
+SKYPEOPLE x TRON
++ Tron Live Interview : https://goo.gl/jjR7pb
++ Tron Live Campaign video : https://goo.gl/4cU23j
++ Justin Sun, TRON’s Independence celebration SR video : https://goo.gl/DGXYYV (1min 25sec)
++ Justin Sun twitter - SKYPEOPLE SR Join announcement : https://goo.gl/w5f1bq
++ TRON Official SR Candidate Information : https://goo.gl/ucQ6JB
++ Justin Sun’s Letter for TRON Mainnet (Korean Translated) : https://goo.gl/LX5U5g
 
-+ ‘Skypeople‘ Official Homepage : <http://www.skypeople.co.kr/> (Renewal 5/31)
-+ ‘Final Blade‘ Korea Official Homepage : <https://fb.plaync.com>
-+ ‘Final Blade‘ Korea Community Cafe : <http://cafe.naver.com/sori21>
-+ ‘Final Blade‘ Taiwan Facebook : <https://www.facebook.com/poseidon.finalblade>
+ SKYPEOPLE Official Channel List
++ Homepage : http://www.skypeople.co.kr/
++ Twitter : https://twitter.com/SkypeopleMaster?lang=ko
++ SR Telegram Group : https://t.me/TRONSR_skypeople_KR
