@@ -1,11 +1,11 @@
 Our plan for the Rewards to the voters
-+ Rewards to the voters : 35%
++ Rewards to the voters : 35%  
 Airdrop will be done within a day regularly.
-+ Operation budget : 10%
++ Operation budget : 10%  
 Service management fee
-+ Hardware maintenance fee : 10%
++ Hardware maintenance fee : 10%  
 Server maintenance 
-+ New Blockchain RND budget : 45%
++ New Blockchain RND budget : 45%  
 We are going to airdrop the 2% of volume 
 at the moment of mainnet for the blockchain system we are developing.  
 
