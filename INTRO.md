@@ -24,7 +24,7 @@ SKYPEOPLE x TRON
 + TRON Official SR Candidate Information : https://goo.gl/ucQ6JB
 + Justin Sun’s Letter for TRON Mainnet (Korean Translated) : https://goo.gl/LX5U5g
 
- SKYPEOPLE Official Channel List
+SKYPEOPLE Official Channel List
 + Homepage : http://www.skypeople.co.kr/
 + Twitter : https://twitter.com/SkypeopleMaster?lang=ko
 + SR Telegram Group : https://t.me/TRONSR_skypeople_KR
