@@ -10,7 +10,7 @@ TRON SR Candidate SKYPEOPLE Information is listed below
 + SKYPEOPLE Basic Information and SR commitment : https://goo.gl/hdkzAu
 + Official TRON SR Candidate information : https://goo.gl/ucQ6JB
 + Reward 35% basic guide : https://goo.gl/8ZYKSZ
-+ SKYPEOPLE <Blockchain x Game> ppt : https://goo.gl/mmXT8L
++ SKYPEOPLE <Blockchain x Game> ppt : https://goo.gl/j1h7r
 + Estimated Reward Calculator : https://goo.gl/US91Cw
 + TRON SR Voting Guide : https://goo.gl/Whqopu
 + Mass Media SKYPEOPLE investment analysis Article 1 : https://goo.gl/YoTdPR
