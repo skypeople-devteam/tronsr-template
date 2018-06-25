@@ -10,9 +10,9 @@ TRON SR Candidate SKYPEOPLE Information is listed below
 + SKYPEOPLE Basic Information and SR commitment : https://goo.gl/hdkzAu
 + Official TRON SR Candidate information : https://goo.gl/ucQ6JB
 + Reward 35% basic guide : https://goo.gl/8ZYKSZ
-+ SKYPEOPLE <Blockchain x Game> ppt : https://goo.gl/j1h7rp
++ SKYPEOPLE <Blockchain x Game> ppt : https://goo.gl/mmXT8L
 + Estimated Reward Calculator : https://goo.gl/US91Cw
-+ TRON SR Voting Guide : https://goo.gl/Whqopu
++ TRON SR Voting Guide : . https://bit.ly/2tlSPYn
 + Mass Media SKYPEOPLE investment analysis Article 1 : https://goo.gl/YoTdPR
 + Mass Media SKYPEOPLE investment analysis Article 2 : https://goo.gl/1DvuPJ
 
@@ -21,8 +21,7 @@ SKYPEOPLE x TRON
 + Tron Live Campaign video : https://goo.gl/4cU23j
 + Justin Sun, TRON’s Independence celebration SR video : https://goo.gl/DGXYYV (1min 25sec)
 + Justin Sun twitter - SKYPEOPLE SR Join announcement : https://goo.gl/w5f1bq
-+ TRON Official SR Candidate Information : https://goo.gl/ucQ6JB
-+ Justin Sun’s Letter for TRON Mainnet (Korean Translated) : https://goo.gl/LX5U5g
++ Justin Sun’s Letter for TRON Mainnet : https://bit.ly/2lucn8R
 
 SKYPEOPLE Official Channel List
 + Homepage : http://www.skypeople.co.kr/
