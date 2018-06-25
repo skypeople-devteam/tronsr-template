@@ -37,4 +37,4 @@ Jeong Ki Sub
 
 * * * 
 ##### Company Location
-###### 5F Pangyo Innovally A, 621, Sampyeongdong Bundanggu, Seongnamsi Gyeonggido, KOREA 463-400
+###### 5F Pangyo Innovally A-502, 253, Pangyo-ro, Bundanggu, Seongnamsi Gyeonggido, KOREA 13486
