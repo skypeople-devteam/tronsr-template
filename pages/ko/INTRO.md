@@ -11,7 +11,8 @@ TRON SR 한국 후보인 SKYPEOPLE 의 정보를 종합하여 공유드립니다
 + 인센티브 35% 지급 방식 설명 : https://goo.gl/8ZYKSZ
 + 개발중인 블록체인 x 게임 가이드 : https://goo.gl/mmXT8L
 + 인센티브 계산기 : https://goo.gl/US91Cw
-+ 슈퍼 SR 투표 가이드 : https://goo.gl/Whqopu
++ TRON 슈퍼 대표 투표 가이드 (PPT) : https://goo.gl/Whqopu
++ TRON 슈퍼 대표 투표 가이드 (영상) : https://youtu.be/l6NiNH8Mi4w
 + SR 해외 보도 자료 1 (영문) : https://goo.gl/YoTdPR
 + SR 해외 보도 자료 2 (영문) : https://goo.gl/1DvuPJ
 
