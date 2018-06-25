@@ -12,4 +12,4 @@ ap-northeast-2 (asia / seoul region)
 
 + Use EBS snapshot backup. mount EBS Volume & rsync & snapshot (auto-backup)
 + Use AWS-CloudWatch statue check and Auto-Recovery
-+ If the node fails in real time, we are designing a backup and live swap architecture. (replication and master-slave swap)
++ We are in procedure of designing a backup and live swap architecture(replication and master-slave swap) in case of the node fails in real-time.
