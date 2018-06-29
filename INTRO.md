@@ -7,23 +7,21 @@ SKYPEOPLE is the game development company which created Collective Mobile RPG ga
 Also, we are in R&D of <Blockchain & Game> and with our technology, we are going to provide the TRON’s actual trading market through the Blockchain game.   
 
 TRON SR Candidate SKYPEOPLE Information is listed below
-+ SKYPEOPLE Basic Information and SR commitment : https://goo.gl/hdkzAu
-+ Official TRON SR Candidate information : https://goo.gl/ucQ6JB
-+ Reward 35% basic guide : https://goo.gl/8ZYKSZ
-+ SKYPEOPLE <Blockchain x Game> ppt : https://goo.gl/mmXT8L
-+ Estimated Reward Calculator : https://goo.gl/US91Cw
-+ TRON SR Voting Guide : . https://bit.ly/2tlSPYn
-+ Mass Media SKYPEOPLE investment analysis Article 1 : https://goo.gl/YoTdPR
-+ Mass Media SKYPEOPLE investment analysis Article 2 : https://goo.gl/1DvuPJ
++ SKYPEOPLE Basic Information and SR commitment : https://tron.live/tronsr/skypeople/ 
++ Official TRON SR Candidate information : https://goo.gl/ucQ6JB 
++ Reward 35% basic guide : https://goo.gl/D7jvUE 
++ SKYPEOPLE <Blockchain x Game> ppt : https://goo.gl/YCu97o 
++ Estimated Reward Calculator : https://goo.gl/q7XCHK 
++ TRON SR Voting Guide : https://goo.gl/86iDrs 
++ Mass Media SKYPEOPLE investment analysis Article 1 : https://goo.gl/YoTdPR 
++ Mass Media SKYPEOPLE investment analysis Article 2 : https://goo.gl/o11t6C 
 
-SKYPEOPLE x TRON
-+ Tron Live Interview : https://goo.gl/jjR7pb
-+ Tron Live Campaign video : https://goo.gl/4cU23j
-+ Justin Sun, TRON’s Independence celebration SR video : https://goo.gl/DGXYYV (1min 25sec)
-+ Justin Sun twitter - SKYPEOPLE SR Join announcement : https://goo.gl/w5f1bq
-+ Justin Sun’s Letter for TRON Mainnet : https://bit.ly/2lucn8R
+SKYPEOPLE x TRON 
++ TRON_LIVE Interview (Text) : https://tron.live/an-interview-with-tronsr-skypeople/ 
++ TRON_LIVE Interview (Video) : https://www.youtube.com/watch?v=RpcALoJitHk 
++ Skypeople 1 min introduce (Video) : https://www.youtube.com/watch?v=H-pz2J5q2x4 
 
 SKYPEOPLE Official Channel List
-+ Homepage : http://www.skypeople.co.kr/
-+ Twitter : https://twitter.com/SkypeopleMaster?lang=ko
-+ SR Telegram Group : https://t.me/TRONSR_skypeople_KR
++ Homepage : http://www.skypeople.co.kr/ 
++ Twitter : https://twitter.com/SkypeopleMaster 
++ SR Telegram Group : https://t.me/TRONSRskypeopleGLOBAL
