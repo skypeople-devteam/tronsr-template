@@ -1,13 +1,11 @@
-Our plan for the Rewards to the voters
-+ Rewards to the voters : 35%  
-Airdrop will be done within a day regularly.
-+ Operation budget : 10%  
-Service management fee
-+ Hardware maintenance fee : 10%  
-Server maintenance 
-+ New Blockchain RND budget : 45%  
-We are going to airdrop the 2% of volume 
-at the moment of mainnet for the blockchain system we are developing.  
+1) Rewards to the voters : 80% 
++ Airdreop will be done within a day regularly.
+2) Operation budget : 10% 
++ Service management fee
+3) Hardware maintenance fee : 10%
++ Server maintenance
+4) New Blockchain R&D budget 
++ We are going to airdrop the 2% of volume at the moment of mainnet for the blockchain system we are developing.
 
 What is the new blockchain we are developing?
 + Main feature is the "Payment" and the "Item Market" based on the blockchain system.
