@@ -11,7 +11,7 @@ SKYPEOPLE은 수집형 RPG FINAL BLADE의 개발사입니다. NC Soft와 Net Pub
 +	TRON 슈퍼 대표 투표 가이드 (영상) : https://youtu.be/l6NiNH8Mi4w
 +	SR 해외 보도 자료 1 (영문) : https://goo.gl/YoTdPR
 +	SR 해외 보도 자료 2 (영문) : https://goo.gl/o11t6C
-+	자체 블록체인 <Mineral Hub> Github : https://github.com/mineralhub/mineral
++	자체 블록체인 Mineral Hub Github : https://github.com/mineralhub/mineral
   
 스카이피플 x 트론
 +	Tron Live 인터뷰 : https://goo.gl/jjR7pb
@@ -25,6 +25,6 @@ SKYPEOPLE 공식 채널 정보
 +	홈페이지 : http://www.skypeople.co.kr/
 +	트위터 : https://twitter.com/SkypeopleMaster?lang=ko
 +	SR 텔레그램 채널방 : https://t.me/TRONSR_skypeople_KR
-+	<Mineral Hub> 텔레그램 채널방 : https://t.me/MineralHubKOR
++	Mineral Hub 텔레그램 채널방 : https://t.me/MineralHubKOR
   
 감사합니다. :)
