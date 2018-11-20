@@ -1,18 +1,33 @@
-<Skypeople\>是在韩国京畿道城南市板桥的一个 IT公司
+韩国唯一的波场超级代表SKYPEOPLE信息如下。
+我们SKYPEOPLE是收集RPGFINALBLADE的开发商。与NcSoft，NetPublishing一起在韓國與港澳台地區合作发行，必且已经超过了200亿韩币的营收成果，还有正在准备進行全球發行。
+我们是透过自己的技术能力来开发区块链商务平台Mineral Hub项目。这个项目是让给需要用区块链技术的企业更容易更方便去推展业务
+18年11月已经公开了TestNet，相关详细内容如在github
 
-目前在韩国跟NCSOFT一同发行‘Final Blade’，以2D为基础的RPG手游，拥有对游戏系统非常高的开发能力，知识和伺服器技术能力。
+各种信息的链接地址如下
++ SKYPEOPLE 介绍影片 : https://tron.live/tronsr/skypeople/
++	投票奖金发放方式 : http://bit.ly/2zbiMiD
++	预计奖金计算机 : http://bit.ly/2PEIZyc
++	TRON波场超级代表投票导览 (PPT) :  https://goo.gl/86iDrs
++	TRON波场超级代表投票导览 (影片) : http://bit.ly/2DMmYqN
++	超级代表海外新闻资料 1（英文）: https://goo.gl/YoTdPR
++	超级代表海外新闻资料 2 (英文) : https://goo.gl/o11t6C
++	自行区块链 Mineral Hub Github : https://github.com/mineralhub/mineral
 
-‘Final Blade’在韩国国内达到畅销榜第二名，并预计今年6月于大中华地区推出发行，另全球版本也如火如荼地进行中。
 
-我们<Skypeople>技术团队希望透过Blockchain技术与游戏结合，给使用者展示出更优秀的未来系统。
+SKYPEOPLE x 波场
++	波场直播采访（文字）: https://tron.live/an-interview-with-tronsr-skypeople/
++	波场直播采访（影片）: https://www.youtube.com/watch?v=RpcALoJitHk
++	Skypeople介绍1分钟（影片）: https://www.youtube.com/watch?v=H-pz2J5q2x4
++	波场官方超级代表信息 : https://goo.gl/ucQ6JB
++	Justin Sun祝福波场独立日影片 : https://goo.gl/DGXYYV (at 1:25)
++	Justin Sun推特 : https://goo.gl/w5f1bq
 
-我们将会试图用自己持有的专有技术套用在Tron做出各种商业模式，然后这些过程中创造出重要的结果，与想了解Blockchain的人一起分享，并有机会一起发展更好的未来。
 
-现在已经由‘FinalBlade’证明了我们的服务能力，并透过Blockchain和游戏产品结合一起发展出未来的新系统。请投票给我们 <Skypeople \>。
+SKYPEOPLE 官方网页
++	网页 : http://www.skypeople.co.kr/
++	推特 : https://twitter.com/SkypeopleMaster
++	SR Telegram Group : https://t.me/TRONSRskypeopleGLOBAL
++	Mineral Hub Telegram Group : https://t.me/MineralHubGLOBAL	
 
-我们的新挑战将会会让全世界惊讶!
 
-+	‘Skypeople‘ 官方网站 : http://www.skypeople.co.kr/ (Renewal 5/31)
-+	‘Final Blade‘ 韩国官方网站 : https://fb.plaync.com
-+	‘Final Blade‘ 韩国社群网站 : http://cafe.naver.com/sori21
-+	‘Final Blade‘ 台湾社群网站 : https://www.facebook.com/poseidon.finalblade
+谢谢 :)
