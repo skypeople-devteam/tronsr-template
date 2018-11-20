@@ -1,40 +1,36 @@
 ## CEO
 
-Park Kyung Jae
-+ Ncsoft ‘Final Blade’ Executive PD
-+ Pixelammo CTO
-+ Game Bill pubishing game PD
-+ Neowiz Keri racing PD
-+ Wemade 'Viking Island' PD
+Park Kyung Jae (Derek Park)
++	Ncsoft ‘Final Blade’ Executive PD
++	Pixelammo CTO
++	Game Bill pubishing game PD
++	Neowiz Keri racing PD
++	Wemade 'Viking Island' PD
 
 ## VP
 
 Hong Jeong Ki
-+ Ncsoft ‘Final Blade’ Global PD
-+ Gala Business Team BM
++	Ncsoft ‘Final Blade’ Global PD
++	Gala Business Team BM
 
 ## CTO
 
 Choi Young Ho
-+ Block Chain Developer
-+ Ncsoft ‘Final Blade’ Technical Director
-+ Nexon Publishing Game Developer
++	Blockchain Developer
++	Ncsoft ‘Final Blade’ Technical Director
++	Nexon Publishing Game Developer
 
 ## PM
 
-Park Jeong Ha
-+ YD Online 'Prestone Tale' Business Manager
+Jeon Seung Pyo (Aiden Jeon)
++	Blockchain Manager
 
-## CD
+## BD
 
-Jung Young Ha
-+ Tencent Business Development & Game Designer
+Chung Seung Hwan (Justin Chung)
++	Blockchain Business Developer
 
-## Game Designer
+## CM
 
-Jeong Ki Sub
-+ Netmarble Game Designer
-
-* * * 
-##### Company Location
-###### 5F Pangyo Innovally A-502, 253, Pangyo-ro, Bundanggu, Seongnamsi Gyeonggido, KOREA 13486
+Eom Seong Min (Sean Eom)
++	Blockchain Community Manager
