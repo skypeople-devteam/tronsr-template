@@ -1,36 +1,110 @@
-## CEO
+## Chief Executive Officer
 
-Park Kyung Jae (Derek Park)
-+	Ncsoft ‘Final Blade’ Executive PD
-+	Pixelammo CTO
-+	Game Bill pubishing game PD
-+	Neowiz Keri racing PD
-+	Wemade 'Viking Island' PD
+Derek Park
++ Entermate  
+Game Designer Team Leader  
 
-## VP
++ GameHi  
+Game Designer  
+Metal Rage – `Netmarble` Publishing  
 
-Hong Jeong Ki
-+	Ncsoft ‘Final Blade’ Global PD
-+	Gala Business Team BM
++ Wemade Ngonsoft  
+Viking Ireland Game Design Teamleader  
+Viking Ireland – `Wemade` Service  
 
-## CTO
++ PixcelAmmo  
+Project Detector/CTO  
+Keri Racing North America – `Neowiz` Service  
+Leagues of Heroes - `Gamevil` Publishing  
 
-Choi Young Ho
-+	Blockchain Developer
-+	Ncsoft ‘Final Blade’ Technical Director
-+	Nexon Publishing Game Developer
++ Skypeople  
+Product Director, Chief executive officer  
+FinalBlade Korea - `NC Soft` Publishing  
+FinalBlade Taiwan - `NetPublishing` Publishing  
+FinalBlade Global - `Skypeople`  
 
-## PM
++ Tron  
+Tron Super Representatives  
+DApp Dragon Castle - `Tron` Publishing (Closed Service)  
 
-Jeon Seung Pyo (Aiden Jeon)
-+	Blockchain Manager
++ Klaytn DApp Partner  
+Five Stars - `Skypeople` (Development)  
 
-## BD
++ MINERAL HUB - CEO and Founder  
++ SKYLOAD - CEO and Founder  
 
-Chung Seung Hwan (Justin Chung)
-+	Blockchain Business Developer
+## Chief Marketing Officer
 
-## CM
+Jeong Ki Hong  
++ 2007 : Goorm Interactive  
+Game Marketing  
+Keroro Fighter – `Goorm Interactive` Service  
 
-Eom Seong Min (Sean Eom)
-+	Blockchain Community Manager
++ 2008 : GalaLab  
+Business Model Manager  
+Rapplez – `GalaLab` Service  
+
++ 2016~ : Skypeople  
+Product Director, BM Planer  
+FinalBlade Korea - `NC Soft` Publishing  
+FinalBlade Taiwan - `NetPublishing` Publishing  
+FinalBlade Global - `Skypeople`  
+
++ Tron  
+Tron Super Representatives  
+DApp Dragon Castle - `Tron` Publishing (Closed Service)  
+
++ Klaytn DApp Partner  
+Five Stars - `Skypeople` (Development)  
+
+## Chief Technical Officer
+
+Ray Choi
++ GN Softech  
+Development Team. Engine Programmer  
+
++ CONCOM  
+Development Team. Client & Server  
+Hero X Hero - `NEXON` Publishing  
+
++ Skypeople  
+Development Team. Chief Technical Officer  
+FinalBlade Korea - `NC Soft` Publishing  
+FinalBlade Taiwan - `NetPublishing` Publishing  
+FinalBlade Global - `Skypeople`  
+
++ Tron
+Tron Super Representatives  
+Dapp Dragon Castle - `Tron` Publishing (Closed Service)  
+
++ Klaytn Dapp Partner
+Five Stars - `Skypeople` (Development)  
+UniSwap Klaytn - `Skypeople` (Development)  
+Unity Klaytn - `Skypeople` (Development)  
+NFT Market Klaytn - `Skypeople` (Development)  
+
+## Business Developer
+
+Justin Chung
++ Game Dreamer  
+Business Team. Project Manager
+
++ Net Publishing  
+Business Team. Business Developer
+
++ Skypeople  
+Business Team. Business Developer  
+
+## Strategic Planning 
+
+Taylor Kim
++ Skypeople  
+Business Team. Project Manager  
+FinalBlade Global - `Skypeople`
+
+
+## Community Manager
+
+Grace Ahn
++	Skypeople  
+Blockchain Community Manager
