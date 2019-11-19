@@ -36,15 +36,15 @@ Five Stars - `Skypeople` (Development)
 ## Chief Marketing Officer
 
 Jeong Ki Hong  
-+ 2007 : Goorm Interactive  
++ Goorm Interactive  
 Game Marketing  
 Keroro Fighter – `Goorm Interactive` Service  
 
-+ 2008 : GalaLab  
++ GalaLab  
 Business Model Manager  
 Rapplez – `GalaLab` Service  
 
-+ 2016~ : Skypeople  
++ Skypeople  
 Product Director, BM Planer  
 FinalBlade Korea - `NC Soft` Publishing  
 FinalBlade Taiwan - `NetPublishing` Publishing  
