@@ -24,8 +24,7 @@ SKYPEOPLE 블록체인 미네랄허브
 + Justin Sun, 스카이피플 합류 트위터 : https://goo.gl/w5f1bq
 + Justin Sun, Tron 메인넷 공지 전문 한글 번역본 : https://goo.gl/LX5U5g
 
-SKYPEOPLE 공식 채널 정보
-
+SKYPEOPLE 공식 채널 정보  
 홈페이지 
 + 스카이피플 – https://www.skypeople.co.kr/
 + 미네랄 – https://www.mineralhub.org/
