@@ -31,10 +31,10 @@ SKYPEOPLE 공식 채널 정보
 + 트위터 : https://twitter.com/SkypeopleMaster
 
 텔레그램 채널방 
-+ 트론 SR [Korea] - https://t.me/TRONSRskypeopleKR
-+ 트론 SR [Global] - https://t.me/TRONSRskypeopleGLOBAL
-+ 미네랄 [Korea] - https://t.me/MineralKorea
-+ 미네랄 [Global] - https://t.me/MineralGLOBAL
++ 트론 SR Korea - https://t.me/TRONSRskypeopleKR
++ 트론 SR Global - https://t.me/TRONSRskypeopleGLOBAL
++ 미네랄 Korea - https://t.me/MineralKorea
++ 미네랄 Global - https://t.me/MineralGLOBAL
 
 기타 채널
 + 미디엄 : https://medium.com/@SkypeopleMaster
