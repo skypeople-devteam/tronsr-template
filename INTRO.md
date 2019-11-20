@@ -34,10 +34,10 @@ Homepage
 + Twitter : https://twitter.com/SkypeopleMaster
 
 Telegram Channel
-+ TronSR [Korea] - https://t.me/TRONSRskypeopleKR
-+ TronSR [Global] - https://t.me/TRONSRskypeopleGLOBAL
-+ Mineral[Korea] - https://t.me/MineralKorea
-+ Mineral[Global] - https://t.me/MineralGLOBAL
++ TronSR Korea - https://t.me/TRONSRskypeopleKR
++ TronSR Global - https://t.me/TRONSRskypeopleGLOBAL
++ Mineral Korea - https://t.me/MineralKorea
++ Mineral Global - https://t.me/MineralGLOBAL
 
 Other Channel
 + Medium : https://medium.com/@SkypeopleMaster
