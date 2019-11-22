@@ -97,7 +97,7 @@ Business Team. Business Developer
 
 ## Strategic Planning 
 
-Taylor Kim
+Vellu Kim
 + Skypeople  
 Business Team. Project Manager  
 FinalBlade Global - `Skypeople`
